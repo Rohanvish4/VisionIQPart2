@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Exclude cache directories from backup -->
+    <exclude domain="cache" />
+    <exclude domain="external-cache" />
+    
+    <!-- Include app data but exclude sensitive information -->
+    <include domain="file" path="." />
+    <include domain="database" path="." />
+    <include domain="sharedpref" path="." />
+    
+    <!-- Exclude temporary analysis files -->
+    <exclude domain="file" path="temp_analysis/" />
+    <exclude domain="file" path="video_frames/" />
+</full-backup-content>

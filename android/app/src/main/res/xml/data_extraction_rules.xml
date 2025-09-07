@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <!-- Cloud backup rules -->
+    <cloud-backup>
+        <include domain="file" path="." />
+        <include domain="database" path="." />
+        <include domain="sharedpref" path="." />
+        
+        <!-- Exclude sensitive and temporary files -->
+        <exclude domain="file" path="temp_analysis/" />
+        <exclude domain="file" path="video_frames/" />
+        <exclude domain="cache" />
+        <exclude domain="external-cache" />
+    </cloud-backup>
+    
+    <!-- Device transfer rules -->
+    <device-transfer>
+        <include domain="file" path="." />
+        <include domain="database" path="." />
+        <include domain="sharedpref" path="." />
+        
+        <!-- Exclude sensitive and temporary files -->
+        <exclude domain="file" path="temp_analysis/" />
+        <exclude domain="file" path="video_frames/" />
+        <exclude domain="cache" />
+        <exclude domain="external-cache" />
+    </device-transfer>
+</data-extraction-rules>
