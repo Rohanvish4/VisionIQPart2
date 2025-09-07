@@ -28,29 +28,18 @@ Vision IQ helps businesses verify if customers are calling from their claimed lo
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/a.jpg)  
-*Main dashboard with easy access to verification features*
 
-![Verification Screen](screenshots/b.jpg)  
-*Clean interface for setting up and running analysis*
 
-![Results Screen](screenshots/c.jpg)  
-*Detailed risk assessment with clear recommendations*
-
-![Demo Screen](screenshots/d.jpg)  
-*Try the app with pre-loaded sample scenarios*
-
-![Declared Data Input](screenshots/e.jpg)  
-*User-friendly form to enter declared environment details*
-
-![Video Analysis](screenshots/f.jpg)  
-*Frame-by-frame AI-powered video background verification*
-
-![Risk Levels](screenshots/g.jpg)  
-*Color-coded risk levels for easy interpretation*
-
-![Settings & Permissions](screenshots/h.jpg)  
-*Manage app settings, permissions, and preferences*
+<div align="center">
+  <img src="screenshots/a.jpg" width="300" alt="Screenshot A"/>
+  <img src="screenshots/b.jpg" width="300" alt="Screenshot B"/>
+  <img src="screenshots/c.jpg" width="300" alt="Screenshot C"/>
+  <img src="screenshots/d1.jpg" width="300" alt="Screenshot D"/>
+  <img src="screenshots/e.jpg" width="300" alt="Screenshot E"/>
+  <img src="screenshots/f.jpg" width="300" alt="Screenshot F"/>
+  <img src="screenshots/g.jpg" width="300" alt="Screenshot G"/>
+  <img src="screenshots/h.jpg" width="300" alt="Screenshot H"/>
+</div>
 
 
 
